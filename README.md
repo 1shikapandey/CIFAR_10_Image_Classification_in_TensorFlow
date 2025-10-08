@@ -218,8 +218,3 @@ plt.show()
 
 This project showcases how a well-structured CNN can effectively classify small images into multiple categories.
 By combining **Batch Normalization**, **Dropout**, and **Data Augmentation**, it achieves a balance between **accuracy** and **generalization**, making it a great foundation for deeper architectures like **ResNet** or **VGG** in future experiments.
-
----
-
-Would you like me to make this README include a **preview section** at the top (with a dataset image grid + model training chart preview placeholders) — so it looks like a professional ML GitHub repo (like TensorFlow/Kaggle ones)?
-It makes a *huge difference* for presentation, especially for MS CS applications.
