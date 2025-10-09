@@ -13,7 +13,7 @@ The **CIFAR-10** dataset contains **60,000 RGB images** of size **32×32 pixels*
 
 ---
 
-## ⚙️ Key Features
+## Key Features
 
 * End-to-end image classification pipeline
 * CNN with **Batch Normalization**, **Dropout**, and **MaxPooling** layers
