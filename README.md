@@ -4,7 +4,7 @@ A deep learning project that classifies images from the **CIFAR-10 dataset** int
 
 ---
 
-## 📘 Overview
+## Overview
 
 This project demonstrates the full workflow of building an image classification model — from data preprocessing to training, evaluation, and visualization.
 
