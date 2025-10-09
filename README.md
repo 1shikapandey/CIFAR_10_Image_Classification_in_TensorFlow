@@ -1,4 +1,4 @@
-# 🧠 CIFAR-10 Image Classification using TensorFlow
+# CIFAR-10 Image Classification using TensorFlow
 
 A deep learning project that classifies images from the **CIFAR-10 dataset** into **10 categories** using a **Convolutional Neural Network (CNN)** built with **TensorFlow and Keras**.
 
