@@ -35,7 +35,7 @@ The **CIFAR-10** dataset contains **60,000 RGB images** of size **32×32 pixels*
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
 
