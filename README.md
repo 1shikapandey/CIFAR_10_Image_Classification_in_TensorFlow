@@ -75,7 +75,7 @@ All pixel values are normalized to the range **[0, 1]** for faster and more stab
 
 ---
 
-## 🏗️ Model Architecture
+## Model Architecture
 
 A **Convolutional Neural Network (CNN)** was built using TensorFlow’s functional API.
 
