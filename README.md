@@ -58,7 +58,7 @@ The **CIFAR-10** dataset contains **60,000 RGB images** of size **32×32 pixels*
 
 ---
 
-## 📁 Dataset Details
+## Dataset Details
 
 The **CIFAR-10** dataset is automatically loaded from TensorFlow’s built-in datasets module.
 
