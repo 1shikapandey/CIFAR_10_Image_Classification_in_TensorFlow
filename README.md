@@ -141,7 +141,7 @@ r = model.fit(
 
 ---
 
-## 📊 Performance Visualization
+## Performance Visualization
 
 Visualize training and validation accuracy:
 
