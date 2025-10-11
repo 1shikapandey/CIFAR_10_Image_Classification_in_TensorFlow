@@ -107,7 +107,7 @@ model.compile(
 )
 ```
 
-### 2️⃣ Train
+### Train
 
 ```python
 r = model.fit(
