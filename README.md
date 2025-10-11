@@ -97,7 +97,7 @@ Input (32x32x3)
 
 ## Training the Model
 
-### 1️⃣ Compile
+### Compile
 
 ```python
 model.compile(
