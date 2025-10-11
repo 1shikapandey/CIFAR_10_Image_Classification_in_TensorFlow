@@ -198,7 +198,7 @@ This saves your trained model for future use or deployment.
 
 ---
 
-## 🖼️ Sample Visualization
+## Sample Visualization
 
 Visualizing a few CIFAR-10 images from the training dataset:
 
