@@ -188,7 +188,7 @@ This saves your trained model for future use or deployment.
 
 ---
 
-## 🧠 What You’ll Learn
+## What You’ll Learn
 
 * Fundamentals of CNNs for image classification
 * Image preprocessing and normalization techniques
