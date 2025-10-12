@@ -154,7 +154,7 @@ plt.show()
 
 ---
 
-## 🔍 Testing and Prediction
+## Testing and Prediction
 
 ```python
 labels = ['airplane', 'automobile', 'bird', 'cat', 'deer',
