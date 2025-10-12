@@ -117,7 +117,7 @@ r = model.fit(
 )
 ```
 
-### 3️⃣ Data Augmentation
+### Data Augmentation
 
 To enhance performance and prevent overfitting:
 
