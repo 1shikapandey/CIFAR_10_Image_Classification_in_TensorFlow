@@ -178,7 +178,7 @@ Original: cat, Predicted: cat
 
 ---
 
-## 💾 Save the Trained Model
+## Save the Trained Model
 
 ```python
 model.save('cifar10_cnn_model.h5')
