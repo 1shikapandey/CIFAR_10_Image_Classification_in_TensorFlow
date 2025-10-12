@@ -170,7 +170,7 @@ original = labels[y_test[image_number][0]]
 print(f"Original: {original}, Predicted: {predicted}")
 ```
 
-✅ Example Output:
+Example Output:
 
 ```
 Original: cat, Predicted: cat
