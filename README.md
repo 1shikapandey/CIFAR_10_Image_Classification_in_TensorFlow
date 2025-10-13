@@ -9,7 +9,7 @@ A deep learning project that classifies images from the **CIFAR-10 dataset** int
 This project demonstrates the full workflow of building an image classification model — from data preprocessing to training, evaluation, and visualization.
 
 The **CIFAR-10** dataset contains **60,000 RGB images** of size **32×32 pixels** across **10 classes**:
-✈️ Airplane · 🚗 Automobile · 🐦 Bird · 🐱 Cat · 🦌 Deer · 🐶 Dog · 🐸 Frog · 🐴 Horse · 🚢 Ship · 🚛 Truck
+✈️ Airplane · 🚗 Automobile · 🐦 Bird · 🐱 Cat · 🦌 Deer · 🐶 Dog · 🐸 Frog · 🐴 Horse · 🚢 Ship · Truck
 
 ---
 
