@@ -216,5 +216,3 @@ plt.show()
 
 ## Summary
 
-This project showcases how a well-structured CNN can effectively classify small images into multiple categories.
-By combining **Batch Normalization**, **Dropout**, and **Data Augmentation**, it achieves a balance between **accuracy** and **generalization**, making it a great foundation for deeper architectures like **ResNet** or **VGG** in future experiments.
