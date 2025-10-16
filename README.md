@@ -211,7 +211,3 @@ for i in range(5):
         k += 1
 plt.show()
 ```
-
----
-
-## Summary
